@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+uploads
+converted
+.env
+.env.*
+
+#models
+*.glb
+*.usdz
+.qodo
