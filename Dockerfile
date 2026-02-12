@@ -47,4 +47,4 @@ COPY . .
 EXPOSE 3002
 
 # Default command to run your server
-CMD ["node", "server.js"]
+CMD ["node", "index.js"]
